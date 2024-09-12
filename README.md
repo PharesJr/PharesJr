@@ -1,5 +1,5 @@
 # 💫 About Me:
-😆 I don't just write code, I have conversations with it. <br>🚀 Full-stack Mobile App Developer <br>🎯 Skilled in JavaScript (Next JS), Kotlin, tailwind<br>👋🏽 Say Hey to me on Instagram or connect with me via email at pharesirungu@gmail.com<br>🌟 Just a boy with a dream
+😆 I don't just write code, I have conversations with it. <br>🚀 Full-stack Mobile App Developer <br>🎯 Skilled in JavaScript (Next JS), Kotlin, tailwind<br>👋🏽 Say Hey to me on [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/phares.jr) or connect with me via email at pharesirungu@gmail.com<br>🌟 Just a boy with a dream
 
 
 ## 🌐 Socials:
